@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f42f9d6b976fd910ae7db9e3a253afd3" extends="task" label="My Test" max_length="40" name="x_soud2_my_test_my_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="My Test" max_length="40" name="my_test" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Execution Plan Plugin" source="com.glide.execution_plan">56c2f693910220009c0accef55f879f4</dependency>
+        <min_version/>
+        <sys_created_by>dyearsley</sys_created_by>
+        <sys_created_on>2022-12-09 19:28:23</sys_created_on>
+        <sys_id>b02fdd6b976fd910ae7db9e3a253afc9</sys_id>
+        <sys_package display_value="My Test" source="x_soud2_my_test">55ee9da3976fd910ae7db9e3a253af34</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

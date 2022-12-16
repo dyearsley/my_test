@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>My Test</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>My Test</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new task" name="Create a new task">48ecf8bf0a0110e9006e17d69550477e</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>dyearsley</sys_created_by>
+        <sys_created_on>2022-12-09 19:28:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>302fdd6b976fd910ae7db9e3a253afb6</sys_id>
+        <sys_name>My Test</sys_name>
+        <sys_package display_value="My Test" source="x_soud2_my_test">55ee9da3976fd910ae7db9e3a253af34</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My Test">55ee9da3976fd910ae7db9e3a253af34</sys_scope>
+        <sys_update_name>sys_wizard_answer_302fdd6b976fd910ae7db9e3a253afb6</sys_update_name>
+        <table/>
+        <target_url>x_soud2_my_test_my_test.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
