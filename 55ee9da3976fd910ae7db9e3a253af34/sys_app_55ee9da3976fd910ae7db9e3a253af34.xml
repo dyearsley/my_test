@@ -22,7 +22,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Testing Connections</short_description>
         <source>x_soud2_my_test</source>
-        <store_correlation_id>REPOAPP0000743188</store_correlation_id>
+        <store_correlation_id>REPOAPP0000746946</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
@@ -35,6 +35,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
     </sys_app>
 </record_update>
